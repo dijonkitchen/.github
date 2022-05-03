@@ -1,3 +1,12 @@
+---
+name: Issue
+about: Suggest a new issue for this project
+title: "[short phrase distinguishing this from other Issues]"
+labels: ''
+assignees: ''
+
+---
+
 Short description explaining the high-level reason for the new issue.
 
 ## Notes
