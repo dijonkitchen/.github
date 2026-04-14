@@ -1,8 +1,8 @@
-## Changes proposed in this pull request:
+## Changes proposed in this pull request
 
-- 
-- 
-- 
+1. 
+
+See commits for more detail.
 
 ## Security considerations
 
